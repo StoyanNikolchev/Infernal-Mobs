@@ -4,7 +4,6 @@ import org.bukkit.entity.Entity;
 import org.bukkit.event.Cancellable;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
-import io.hotmail.com.jacob_vejvoda.infernal_mobs.InfernalMob;
 
 public class InfernalSpawnEvent extends Event implements Cancellable {
     private static final HandlerList handlers = new HandlerList();

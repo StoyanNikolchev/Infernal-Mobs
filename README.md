@@ -1,5 +1,7 @@
 # README #
 
+Jesus fucking Christ, this code is irredeemable. The whole plugin needs to be rewritten from the ground up. Might come back to it at some point... 
+
 This is the Infernal Mobs source code. 
 
 Released under the License: (CC BY-NC-SA 2.5 CA)
